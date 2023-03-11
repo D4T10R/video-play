@@ -83,27 +83,6 @@
       "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 12
-    },
-    {
-      "titulo": "restr",
-      "descricao": "function toString() { [native code] } mil visualizações",
-      "url": "https://www.youtube.com/watch?v=DIlfSkPwOdc",
-      "imagem": "https://avatars.githubusercontent.com/u/73800827?v=4",
-      "id": 13
-    },
-    {
-      "titulo": "teste",
-      "descricao": "function toString() { [native code] } mil visualizações",
-      "url": "https://www.youtube.com/watch?v=DIlfSkPwOdc",
-      "imagem": "https://avatars.githubusercontent.com/u/73800827?v=4",
-      "id": 14
-    },
-    {
-      "titulo": "teste",
-      "descricao": "function toString() { [native code] } mil visualizações",
-      "url": "https://www.youtube.com/embed/watch?v=DIlfSkPwOdc",
-      "imagem": "https://avatars.githubusercontent.com/u/73800827?v=4",
-      "id": 15
     }
   ]
 }

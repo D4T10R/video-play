@@ -26,7 +26,6 @@ async function listaVideos() {
     const listaApi = await conectaApi.listaVideos();
 
     listaApi.forEach(element => lista.appendChild(criarCard(element.titulo, element.descricao, element.url, element.imagem)));
-
 }
 
 
