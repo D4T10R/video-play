@@ -3,7 +3,7 @@ import { conectaApi } from "./conexaoApi.js"
 
 const lista = document.querySelector("[data-lista]")
 
-function criarCard(titulo, descricao, url, imagem) {
+export default function criarCard(titulo, descricao, url, imagem) {
     const li = document.createElement('li')
     li.className = 'videos__item'
     
